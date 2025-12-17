@@ -34,5 +34,5 @@ Aplicaciones backend desarrolladas en Java aplicando Programación Orientada a O
 
 ## 📫 Contacto
 - Email: niconevach@gmail.com
-- LinkedIn: *(cuando lo tengas prolijo, lo agregamos)*
+
 
