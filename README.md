@@ -8,7 +8,7 @@ Me interesa el desarrollo backend y web, y actualmente busco mi primera experien
 ## 🚀 Tecnologías
 
 - **Lenguajes:** Java, PHP, Python, JavaScript (básico)
-- **Web:** HTML, CSS, Bootstrap
+- **Web:** HTML, CSS, Bootstrap, Laravel
 - **Backend:** Java, PHP, POO, lógica de negocio
 - **Bases de datos:** MySQL
 - **Herramientas:** Git, GitHub
